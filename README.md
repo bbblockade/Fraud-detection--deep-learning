@@ -4,7 +4,8 @@
 
 This project tackles the challenge of identifying whether a given text is human-generated or machine-generated across two distinct domains. The project was conducted as part of the **COMP90051 Statistical Machine Learning** course at the University of Melbourne.  The model outperformed over 80 groups(more than 200 people), securing a first-place in both the kaggle competetion and final report result. 
 
-![image](https://github.com/user-attachments/assets/28a1ab6a-91bd-4744-a149-e9d72f3b91e2
+![Kaggle Rank 1 Result](https://github.com/user-attachments/assets/28a1ab6a-91bd-4744-a149-e9d72f3b91e2)
+
 ## Project Overview
 
 The dataset consists of two domains with both human- and machine-generated text, with **Domain 2** having a significant imbalance between the two classes. The task is to predict the origin of the text (human or machine), requiring effective handling of this imbalance while maintaining accuracy across domains.
